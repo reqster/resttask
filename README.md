@@ -1,4 +1,4 @@
-# REST API Test Task for job interviews
+# REST API Test Task for the portfolio
 
 This is a very simple and basic CRUD API project serving as a test task for job interviews.
 
